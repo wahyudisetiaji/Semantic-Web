@@ -1,0 +1,103 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: url("../img/bg-countur.png");
+    background-repeat: repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+
+/* Menu */
+.navbar {
+  background-image: url("../img/nav.png");
+}
+
+.nav-link {
+  font-size: 20px;
+  z-index: 1;
+  color: white;
+}
+  
+.logo {
+    width: 30px;
+    height: 30px;
+}
+  
+
+/* Slider Photo */
+  .carousel {
+    margin-bottom: 4rem;
+  }
+
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+
+  .carousel-item {
+    height: 32rem;
+  }
+
+  .carousel-caption {
+    text-align: left;
+  }
+
+  .carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 32rem;
+  }
+  
+  
+/* Content Info */
+  .marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  .marketing h2 {
+    font-weight: 400;
+  }
+
+  .marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
+
+  .row {
+    background-color: white;
+  }
+
+  
+  
+/* Detail Content */
+  .featurette-divider {
+    margin: 3rem 0;
+  }
+
+  .featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+  }
+
+  .video {
+    margin-top: 5rem;
+  }
+  .col-md-5 h3 {
+    margin-top: 3rem;
+  }
+
+  /* Contact */
+  .google-map {
+    width: 500px;
+    height: 500px;
+  }
+
+  .col-md-6 h3 {
+    margin-top: 5rem;
+  }
+
