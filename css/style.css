@@ -67,11 +67,10 @@ body {
     margin-left: .75rem;
   }
 
+
   .row {
     background-color: white;
   }
-
-  
   
 /* Detail Content */
   .featurette-divider {
@@ -85,10 +84,10 @@ body {
   }
 
   .video {
-    margin-top: 5rem;
+    /* margin-top: 5rem; */
   }
   .col-md-5 h3 {
-    margin-top: 3rem;
+    /* margin-top: 3rem; */
   }
 
   /* Contact */
